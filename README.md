@@ -83,8 +83,10 @@ Os pontos das 4 classes estão distribuídos aproximadamente nas seguintes regi�
 
 ```
 .
-├── perceptron.py       # Script principal com leitura, treinamento e plots
-├── perceptron.txt      # Conjunto de dados sintético (4 classes)
+└── Perceptron
+   ├── perceptron.py       # Script principal com leitura, treinamento e plots
+   ├── perceptron.txt      # Conjunto de dados sintético (4 classes)
+   ├── tempCodeRunnerFile.py # Arquivo para execução no Code Runner
 └── README.md           # Documentação do projeto
 
 ```
