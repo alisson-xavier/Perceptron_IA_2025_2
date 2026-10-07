@@ -1,5 +1,6 @@
 # 🎯 Perceptron Multiclasse com Estratégia One-vs-Rest (OvR)
 
+O trabalho a seguir foi um projeto simples para a disciplina de Inteligência Artificial do semestre 2025/2.
 Este repositório contém uma demonstração prática do algoritmo **Perceptron** aplicado ao problema de classificação multiclasse (4 classes em um espaço bidimensional 2D). Para estender o Perceptron — que é nativamente um classificador binário — para múltiplas classes, utiliza-se a estratégia **One-vs-Rest (OvR)** (ou *One-vs-All*).
 
 ## 📌 Sumário
@@ -126,6 +127,6 @@ O fluxo de execução do script realiza duas etapas de visualização:
 
 2. **Mapeamento das Regiões de Decisão:** Utiliza uma malha de pontos (`np.meshgrid`) no intervalo $[-1, 6.5] \times [-1, 6.5]$ para avaliar as regiões de influência de cada Perceptron via `plt.contourf()`.
 
-## 📜 Licença
+## 📜 Sobre a utilização ou modificação por terceiros
 
-Este projeto é destinado para fins educacionais e de demonstração. Sinta-se à vontade para reutilizar e modificar o código.
+Este projeto não tem fins lucrativos e foi usado apenas de forma educacional e demonstrativa. Qualquer contribuição para melhora será bem-vinda.
