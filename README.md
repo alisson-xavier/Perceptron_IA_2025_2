@@ -94,6 +94,7 @@ Os pontos das 4 classes estão distribuídos aproximadamente nas seguintes regi�
 ### Pré-requisitos
 
 Certifique-se de ter o Python 3.8+ instalado.
+Use a extensão Code Runner (do Jun Han) no VSCode para rodar o código.
 
 ### 1. Clonar o Repositório
 
